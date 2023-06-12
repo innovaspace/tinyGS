@@ -9,6 +9,8 @@
  * of the MIT license.  See the LICENSE file for details.
  */
 
+#define IOTWEBCONF_DEBUG_DISABLED 1
+
 #ifndef IotWebConf2Settings_h
 #define IotWebConf2Settings_h
 
